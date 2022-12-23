@@ -58,6 +58,12 @@ small{
 .productlinks a{
   text-decoration: none;
   color: black;
+  color: #343434;
+}
+
+.productlinks a:hover{
+  color: #c8c8c8
+
 }
 
 .productimg img{
@@ -71,6 +77,7 @@ small{
   display: block;
   text-decoration: none;
   color: black;
+  color: #343434;
 }
 
 .productdetails{
