@@ -20,10 +20,24 @@
   }
 
 /* HEADER */
-.carousel-item{
-  display: flex;
+img{
+  max-width: 100%;
+}
+.button{
+  padding: 30px;
+  text-align: center;
 }
 
+a.btn.btn-primary{
+  background-color: #343434;
+  border-color: #343434;
+  color: #C8C8C8;
+}
+
+
+.gallery{
+  padding: 50px;
+}
 /* FOOTER */
 
   .footer{
