@@ -26,6 +26,10 @@ body{
 
 /* HEADER */
 
+.catalog{
+  margin-bottom: 30px;
+}
+
 .carousel-caption.d-none.d-md-block {
   color: black;
 }
