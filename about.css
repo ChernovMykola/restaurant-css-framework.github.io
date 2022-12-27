@@ -60,6 +60,10 @@ iframe{
   }
 }
 
+div .modal-footer .cartbut{
+  background-color: #343434;
+}
+
 
 
 /* FOOTER */

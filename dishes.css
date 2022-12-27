@@ -73,4 +73,8 @@ a.btn.btn-primary{
     font-size: 30px;
   }
 
+  div .modal-footer .cartbut{
+    background-color: #343434;
+  }
+
 /* FOOTER */

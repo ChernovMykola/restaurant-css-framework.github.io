@@ -52,7 +52,9 @@ h3{
   padding: 30px;
 }
 
-
+div .modal-footer .cartbut{
+  background-color: #343434;
+}
 
 
 
