@@ -1,3 +1,5 @@
+
+
 /* HEADER */
 
 .navbar-expand-lg .navbar-nav .dropdown-menu{
@@ -22,7 +24,15 @@
 /* HEADER */
 
 .cont{
-  margin: 10px;
+  margin: 30px;
+}
+
+.fn{
+  padding-bottom: 30px;
+}
+
+.col, .mb-3, .theme, .text{
+  padding-bottom: 30px;
 }
 
 .button{
@@ -36,12 +46,12 @@
 
 /* FOOTER */
 
-  footer{
+  /* footer{
     position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
-  }
+  } */
 
   .footer{
     background-color: #343434;
